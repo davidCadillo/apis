@@ -61,7 +61,7 @@
       "Nombre": "Usuarios"
     }
   ],
-  "prioridad": [
+  "prioridades": [
     {
       "Id": 1,
       "Nombre": "Normal"
@@ -127,7 +127,7 @@
   "responsables": null,
   "matriz_tiempo": null,
   "naturaleza_atencion": null,
-  "motivoReprog": null,
+  "motivosReprog": null,
   "es_admin": false,
   "puede_asignar_varios": false
 }
