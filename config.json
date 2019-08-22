@@ -1,133 +1,494 @@
-{
-  "motivos": [
-    {
-      "Id": 35,
-      "Nombre": "Accesos, carpetas, otros"
-    },
-    {
-      "Id": 32,
-      "Nombre": "Cámaras"
-    },
-    {
-      "Id": 40,
-      "Nombre": "Cese de Personal"
-    },
-    {
-      "Id": 28,
-      "Nombre": "Config. ERP"
-    },
-    {
-      "Id": 33,
-      "Nombre": "Correos"
-    },
-    {
-      "Id": 26,
-      "Nombre": "Gestión de Compra"
-    },
-    {
-      "Id": 38,
-      "Nombre": "Gestión de Servicio"
-    },
-    {
-      "Id": 24,
-      "Nombre": "Hardware"
-    },
-    {
-      "Id": 29,
-      "Nombre": "Internet"
-    },
-    {
-      "Id": 39,
-      "Nombre": "Intranet"
-    },
-    {
-      "Id": 34,
-      "Nombre": "Nuevas Instalaciones"
-    },
-    {
-      "Id": 30,
-      "Nombre": "Redes"
-    },
-    {
-      "Id": 25,
-      "Nombre": "Software"
-    },
-    {
-      "Id": 31,
-      "Nombre": "Teléfono"
-    },
-    {
-      "Id": 27,
-      "Nombre": "Usuarios"
-    }
-  ],
-  "prioridades": [
-    {
-      "Id": 1,
-      "Nombre": "Normal"
-    },
-    {
-      "Id": 2,
-      "Nombre": "Programado"
-    },
-    {
-      "Id": 3,
-      "Nombre": "Urgente"
-    },
-    {
-      "Id": 4,
-      "Nombre": "Normal"
-    },
-    {
-      "Id": 5,
-      "Nombre": "Programado"
-    },
-    {
-      "Id": 6,
-      "Nombre": "Urgente"
-    },
-    {
-      "Id": 7,
-      "Nombre": "Normal"
-    },
-    {
-      "Id": 8,
-      "Nombre": "Programado"
-    },
-    {
-      "Id": 9,
-      "Nombre": "Urgente"
-    },
-    {
-      "Id": 10,
-      "Nombre": "Normal"
-    },
-    {
-      "Id": 11,
-      "Nombre": "Programado"
-    },
-    {
-      "Id": 12,
-      "Nombre": "Urgente"
-    },
-    {
-      "Id": 13,
-      "Nombre": "Normal"
-    },
-    {
-      "Id": 14,
-      "Nombre": "Programado"
-    },
-    {
-      "Id": 15,
-      "Nombre": "Urgente"
-    }
-  ],
-  "granjas": null,
-  "responsables": null,
-  "matriz_tiempo": null,
-  "naturaleza_atencion": null,
-  "motivosReprog": null,
-  "es_admin": false,
-  "puede_asignar_varios": false
-}
+[
+  {
+    "motivos": [
+      {
+        "Id": 35,
+        "Nombre": "Accesos, carpetas, otros"
+      },
+      {
+        "Id": 32,
+        "Nombre": "Cámaras"
+      },
+      {
+        "Id": 40,
+        "Nombre": "Cese de Personal"
+      },
+      {
+        "Id": 28,
+        "Nombre": "Config. ERP"
+      },
+      {
+        "Id": 33,
+        "Nombre": "Correos"
+      },
+      {
+        "Id": 26,
+        "Nombre": "Gestión de Compra"
+      },
+      {
+        "Id": 38,
+        "Nombre": "Gestión de Servicio"
+      },
+      {
+        "Id": 24,
+        "Nombre": "Hardware"
+      },
+      {
+        "Id": 29,
+        "Nombre": "Internet"
+      },
+      {
+        "Id": 39,
+        "Nombre": "Intranet"
+      },
+      {
+        "Id": 34,
+        "Nombre": "Nuevas Instalaciones"
+      },
+      {
+        "Id": 30,
+        "Nombre": "Redes"
+      },
+      {
+        "Id": 25,
+        "Nombre": "Software"
+      },
+      {
+        "Id": 31,
+        "Nombre": "Teléfono"
+      },
+      {
+        "Id": 27,
+        "Nombre": "Usuarios"
+      }
+    ],
+    "prioridades": [
+      {
+        "Id": 1,
+        "Nombre": "Normal"
+      },
+      {
+        "Id": 2,
+        "Nombre": "Programado"
+      },
+      {
+        "Id": 3,
+        "Nombre": "Urgente"
+      }
+    ],
+    "responsables": [
+      {
+        "Id": 336,
+        "Name": "cnoriega",
+        "FullName": "Cesar Noriega C."
+      },
+      {
+        "Id": 448,
+        "Name": "egomez",
+        "FullName": "Eder Gomez R."
+      },
+      {
+        "Id": 629,
+        "Name": "gchanduvi",
+        "FullName": "Gabriel Chanduvi C."
+      },
+      {
+        "Id": 628,
+        "Name": "ilule",
+        "FullName": "Irwing Lule C."
+      },
+      {
+        "Id": 632,
+        "Name": "juriol",
+        "FullName": "Jhonatan Uriol C."
+      },
+      {
+        "Id": 634,
+        "Name": "jcadillo",
+        "FullName": "Jorge Cadillo B."
+      },
+      {
+        "Id": 60,
+        "Name": "jespinoza",
+        "FullName": "Jorge Espinoza R."
+      },
+      {
+        "Id": 58,
+        "Name": "lrojas",
+        "FullName": "Jorge Rojas E."
+      },
+      {
+        "Id": 1,
+        "Name": "jsalas",
+        "FullName": "Jorge Salas C."
+      },
+      {
+        "Id": 509,
+        "Name": "jpimentelv",
+        "FullName": "Jose Pimentel V."
+      },
+      {
+        "Id": 620,
+        "Name": "jsosa",
+        "FullName": "Jose Sosa B."
+      },
+      {
+        "Id": 517,
+        "Name": "julfe",
+        "FullName": "Jose Ulfe I."
+      },
+      {
+        "Id": 59,
+        "Name": "jmorales",
+        "FullName": "Juan Morales A."
+      },
+      {
+        "Id": 257,
+        "Name": "jlezama",
+        "FullName": "Junior Lezama A."
+      },
+      {
+        "Id": 334,
+        "Name": "mgarcia",
+        "FullName": "Marlon Garcia Z."
+      },
+      {
+        "Id": 623,
+        "Name": "rcorrea",
+        "FullName": "Randy Correa Y."
+      },
+      {
+        "Id": 433,
+        "Name": "rbarriga",
+        "FullName": "Roger Barriga V."
+      },
+      {
+        "Id": 109,
+        "Name": "rsalazar",
+        "FullName": "Ronald Salazar E."
+      },
+      {
+        "Id": 108,
+        "Name": "sistema",
+        "FullName": "Soporte"
+      },
+      {
+        "Id": 311,
+        "Name": "vnieve",
+        "FullName": "Victor Nieve M."
+      },
+      {
+        "Id": 179,
+        "Name": "vroldan",
+        "FullName": "Victor Roldan S."
+      },
+      {
+        "Id": 630,
+        "Name": "wmoscol",
+        "FullName": "Wilmer Moscol C."
+      }
+    ],
+    "matriz_tiempo": [
+      {
+        "Id": 1,
+        "AtMotivoID": 24,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 2,
+        "AtMotivoID": 24,
+        "AtPrioridad": 2,
+        "nDias": 4
+      },
+      {
+        "Id": 5,
+        "AtMotivoID": 24,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 6,
+        "AtMotivoID": 25,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 7,
+        "AtMotivoID": 25,
+        "AtPrioridad": 2,
+        "nDias": 4
+      },
+      {
+        "Id": 8,
+        "AtMotivoID": 25,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 9,
+        "AtMotivoID": 26,
+        "AtPrioridad": 1,
+        "nDias": 14
+      },
+      {
+        "Id": 10,
+        "AtMotivoID": 26,
+        "AtPrioridad": 2,
+        "nDias": 21
+      },
+      {
+        "Id": 11,
+        "AtMotivoID": 26,
+        "AtPrioridad": 3,
+        "nDias": 7
+      },
+      {
+        "Id": 12,
+        "AtMotivoID": 27,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 13,
+        "AtMotivoID": 27,
+        "AtPrioridad": 2,
+        "nDias": 3
+      },
+      {
+        "Id": 14,
+        "AtMotivoID": 27,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 15,
+        "AtMotivoID": 28,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 16,
+        "AtMotivoID": 28,
+        "AtPrioridad": 2,
+        "nDias": 3
+      },
+      {
+        "Id": 17,
+        "AtMotivoID": 28,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 18,
+        "AtMotivoID": 29,
+        "AtPrioridad": 1,
+        "nDias": 3
+      },
+      {
+        "Id": 19,
+        "AtMotivoID": 29,
+        "AtPrioridad": 2,
+        "nDias": 4
+      },
+      {
+        "Id": 20,
+        "AtMotivoID": 29,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 21,
+        "AtMotivoID": 30,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 22,
+        "AtMotivoID": 30,
+        "AtPrioridad": 2,
+        "nDias": 3
+      },
+      {
+        "Id": 23,
+        "AtMotivoID": 30,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 24,
+        "AtMotivoID": 31,
+        "AtPrioridad": 1,
+        "nDias": 3
+      },
+      {
+        "Id": 25,
+        "AtMotivoID": 31,
+        "AtPrioridad": 2,
+        "nDias": 4
+      },
+      {
+        "Id": 26,
+        "AtMotivoID": 31,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 27,
+        "AtMotivoID": 32,
+        "AtPrioridad": 1,
+        "nDias": 4
+      },
+      {
+        "Id": 28,
+        "AtMotivoID": 32,
+        "AtPrioridad": 2,
+        "nDias": 6
+      },
+      {
+        "Id": 29,
+        "AtMotivoID": 32,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 30,
+        "AtMotivoID": 33,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 31,
+        "AtMotivoID": 33,
+        "AtPrioridad": 2,
+        "nDias": 3
+      },
+      {
+        "Id": 33,
+        "AtMotivoID": 34,
+        "AtPrioridad": 1,
+        "nDias": 14
+      },
+      {
+        "Id": 34,
+        "AtMotivoID": 34,
+        "AtPrioridad": 2,
+        "nDias": 21
+      },
+      {
+        "Id": 35,
+        "AtMotivoID": 34,
+        "AtPrioridad": 3,
+        "nDias": 7
+      },
+      {
+        "Id": 36,
+        "AtMotivoID": 35,
+        "AtPrioridad": 1,
+        "nDias": 2
+      },
+      {
+        "Id": 37,
+        "AtMotivoID": 35,
+        "AtPrioridad": 2,
+        "nDias": 3
+      },
+      {
+        "Id": 38,
+        "AtMotivoID": 35,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 39,
+        "AtMotivoID": 38,
+        "AtPrioridad": 1,
+        "nDias": 14
+      },
+      {
+        "Id": 40,
+        "AtMotivoID": 38,
+        "AtPrioridad": 2,
+        "nDias": 21
+      },
+      {
+        "Id": 41,
+        "AtMotivoID": 38,
+        "AtPrioridad": 3,
+        "nDias": 7
+      },
+      {
+        "Id": 42,
+        "AtMotivoID": 39,
+        "AtPrioridad": 1,
+        "nDias": 4
+      },
+      {
+        "Id": 43,
+        "AtMotivoID": 39,
+        "AtPrioridad": 2,
+        "nDias": 7
+      },
+      {
+        "Id": 44,
+        "AtMotivoID": 39,
+        "AtPrioridad": 3,
+        "nDias": 2
+      },
+      {
+        "Id": 45,
+        "AtMotivoID": 40,
+        "AtPrioridad": 3,
+        "nDias": 1
+      },
+      {
+        "Id": 46,
+        "AtMotivoID": 40,
+        "AtPrioridad": 1,
+        "nDias": 3
+      },
+      {
+        "Id": 47,
+        "AtMotivoID": 40,
+        "AtPrioridad": 2,
+        "nDias": 5
+      },
+      {
+        "Id": 48,
+        "AtMotivoID": 33,
+        "AtPrioridad": 3,
+        "nDias": 1
+      }
+    ],
+    "naturaleza_atencion": [
+      {
+        "Id": 1,
+        "Nombre": "Nuevo Requerimiento"
+      },
+      {
+        "Id": 2,
+        "Nombre": "Error de Sistema"
+      },
+      {
+        "Id": 3,
+        "Nombre": "Error de Usuario"
+      }
+    ],
+    "motivosReprog": [
+      {
+        "Id": 1,
+        "Nombre": "Por Usuario"
+      },
+      {
+        "Id": 2,
+        "Nombre": "Por TI"
+      },
+      {
+        "Id": 3,
+        "Nombre": "Por Proveedor"
+      }
+    ],
+    "es_admin": true,
+    "puede_asignar_varios": false
+  }
+]
