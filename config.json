@@ -1,125 +1,125 @@
 {
   "motivos": [
     {
-      "AtencionMotivoID": 35,
+      "Id": 35,
       "Nombre": "Accesos, carpetas, otros"
     },
     {
-      "AtencionMotivoID": 32,
+      "Id": 32,
       "Nombre": "Cámaras"
     },
     {
-      "AtencionMotivoID": 40,
+      "Id": 40,
       "Nombre": "Cese de Personal"
     },
     {
-      "AtencionMotivoID": 28,
+      "Id": 28,
       "Nombre": "Config. ERP"
     },
     {
-      "AtencionMotivoID": 33,
+      "Id": 33,
       "Nombre": "Correos"
     },
     {
-      "AtencionMotivoID": 26,
+      "Id": 26,
       "Nombre": "Gestión de Compra"
     },
     {
-      "AtencionMotivoID": 38,
+      "Id": 38,
       "Nombre": "Gestión de Servicio"
     },
     {
-      "AtencionMotivoID": 24,
+      "Id": 24,
       "Nombre": "Hardware"
     },
     {
-      "AtencionMotivoID": 29,
+      "Id": 29,
       "Nombre": "Internet"
     },
     {
-      "AtencionMotivoID": 39,
+      "Id": 39,
       "Nombre": "Intranet"
     },
     {
-      "AtencionMotivoID": 34,
+      "Id": 34,
       "Nombre": "Nuevas Instalaciones"
     },
     {
-      "AtencionMotivoID": 30,
+      "Id": 30,
       "Nombre": "Redes"
     },
     {
-      "AtencionMotivoID": 25,
+      "Id": 25,
       "Nombre": "Software"
     },
     {
-      "AtencionMotivoID": 31,
+      "Id": 31,
       "Nombre": "Teléfono"
     },
     {
-      "AtencionMotivoID": 27,
+      "Id": 27,
       "Nombre": "Usuarios"
     }
   ],
   "prioridad": [
     {
-      "AtencionPrioridadID": 1,
+      "Id": 1,
       "Nombre": "Normal"
     },
     {
-      "AtencionPrioridadID": 2,
+      "Id": 2,
       "Nombre": "Programado"
     },
     {
-      "AtencionPrioridadID": 3,
+      "Id": 3,
       "Nombre": "Urgente"
     },
     {
-      "AtencionPrioridadID": 4,
+      "Id": 4,
       "Nombre": "Normal"
     },
     {
-      "AtencionPrioridadID": 5,
+      "Id": 5,
       "Nombre": "Programado"
     },
     {
-      "AtencionPrioridadID": 6,
+      "Id": 6,
       "Nombre": "Urgente"
     },
     {
-      "AtencionPrioridadID": 7,
+      "Id": 7,
       "Nombre": "Normal"
     },
     {
-      "AtencionPrioridadID": 8,
+      "Id": 8,
       "Nombre": "Programado"
     },
     {
-      "AtencionPrioridadID": 9,
+      "Id": 9,
       "Nombre": "Urgente"
     },
     {
-      "AtencionPrioridadID": 10,
+      "Id": 10,
       "Nombre": "Normal"
     },
     {
-      "AtencionPrioridadID": 11,
+      "Id": 11,
       "Nombre": "Programado"
     },
     {
-      "AtencionPrioridadID": 12,
+      "Id": 12,
       "Nombre": "Urgente"
     },
     {
-      "AtencionPrioridadID": 13,
+      "Id": 13,
       "Nombre": "Normal"
     },
     {
-      "AtencionPrioridadID": 14,
+      "Id": 14,
       "Nombre": "Programado"
     },
     {
-      "AtencionPrioridadID": 15,
+      "Id": 15,
       "Nombre": "Urgente"
     }
   ],
